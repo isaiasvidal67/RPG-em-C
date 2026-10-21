@@ -1,0 +1,12 @@
+# Executáveis
+*.exe
+*.out
+*.o
+*.a
+*.so
+
+# Executável do RPG
+/rpg
+
+# Arquivos temporários
+*.tmp
